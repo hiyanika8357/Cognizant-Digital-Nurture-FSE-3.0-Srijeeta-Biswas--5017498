@@ -6,15 +6,15 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
 - [Overview](#overview)
 - [Program Structure](#program-structure)
 - [Week 1](#week-1)
-  - [Algorithms and Data Structures](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/wk1_dsa)
-  - [Design Patterns and Principles](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/wk1_design%20pattern)
+  - [Algorithms and Data Structures](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%201/dsa)
+  - [Design Patterns and Principles](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%201/design%20pattern)
 - [Week 2](#week-2)
-  - [PL/SQL](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%202_PLSQL.docx)
-  - [Spring Core and Maven](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%202_Spring%20Core_Maven.docx)
+  - [PL/SQL](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/plsql)
+  - [Spring Core Maven](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/spring_core_maven)
 - [Week 3](#week-3)
-  - [Spring Data JPA and Hibernate](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%203_Spring%20Data%20JPA%20and%20Hibernate.docx)
+  - [Spring Data JPA and Hibernate]()
 - [Week 4 & 5](#week-4--5)
-  - [Spring REST](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%204%2C%205_Spring%20REST.docx)
+  - [Spring REST]()
   
 ## Overview
 This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
@@ -22,9 +22,10 @@ This repository is a comprehensive collection of all the assignments and project
 
 
 ## Weekly Assignment Answers
-- [Week 1 Algorithms and Data Structures](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/wk1_dsa)
-- [Week 1 Design Patterns and Principles](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/wk1_design%20pattern)
-
+- [Week 1 Algorithms and Data Structures](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%201/dsa)
+- [Week 1 Design Patterns and Principles](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%201/design%20pattern)
+- [Week 2 PL-SQL](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/plsql)
+- [Week 2 Spring Core Maven](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/spring_core_maven)
 
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
