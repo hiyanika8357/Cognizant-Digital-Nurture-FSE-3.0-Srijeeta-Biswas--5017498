@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch FactoryMethodPatternTest",
+        "request": "launch",
+        "mainClass": "test.FactoryMethodPatternTest",
+        "projectName": "FactoryMethodPatternExample",
+        "vmArgs": "--enable-preview -XX:+ShowCodeDetailsInExceptionMessages"
+      }
+    ]
+  }  
