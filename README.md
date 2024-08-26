@@ -13,9 +13,10 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
   - [Spring Core Maven](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/spring_core_maven)
 - [Week 3](#week-3)
   - [Spring Data JPA and Hibernate](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%203)
-- [Week 4 & 5](#week-4--5)
+- [Week 4](#week-4)
   - [Spring REST](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%204)
-  
+- [Week 5](#week-5)
+  - [Spring REST (cont.)](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%205)
 ## Overview
 This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
 
@@ -27,7 +28,9 @@ This repository is a comprehensive collection of all the assignments and project
 - [Week 2 : PL-SQL](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/plsql)
 - [Week 2 : Spring Core Maven](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%202/spring_core_maven)
 - [Week 3 : Spring Data JPA and Hibernate](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%203)
-- [Week 4 , 5 : Spring REST](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%204)
+- [Week 4 : Spring REST](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%204)
+- [Week 5 : Spring REST (cont.)](https://github.com/hiyanika8357/Cognizant-Digital-Nurture-FSE-3.0-Srijeeta-Biswas--5017498/tree/main/Week%205)
+## Program Structure
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
 
